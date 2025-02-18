@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+}
+
+[data-testid="stSidebarNav"], [data-testid="stSidebar"] {
+    display: none;
+}
+
+.main-content{
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+}
+
+
+
+
